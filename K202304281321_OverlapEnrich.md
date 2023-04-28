@@ -4,6 +4,10 @@
  
 # Question
 
+if differential expressed genes upon RA exposure is significantly overlaped with SMAD4/9 binding genes. if so,
+how to measure this significance? 
+
+I plan to use fisher-exact test to measure the significancy of enrichment.
 
 # Results summary  
 

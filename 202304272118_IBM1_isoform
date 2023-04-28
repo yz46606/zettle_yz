@@ -1,0 +1,18 @@
+# 202304272118 IBM1_isoform 
+# the investigation is for Arabidopsis mutants
+
+# main context
+
+## question
+
+I want to test if RNA-seq can measure IBM1 isoform expression in different methylation mutant lines.
+
+if true, the ratio of short and long IBM1 isoform should match with expectation. 
+such as in mutants (suv456, cmt3, met1) that have a methylation reduction in IBM1 7th introns, long isoform shoule be lower to WT.
+
+however, in mutants that with unaffected intron methylation, long isoform should be comparable to WT.
+
+## results summary
+
+
+
